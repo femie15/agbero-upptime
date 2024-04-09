@@ -22,9 +22,11 @@ on:
     types: [uptime]
   workflow_dispatch:
 jobs:
-  release:
-    name: Check status
+  deploy:
     runs-on: ubuntu-latest
+  # release:
+  #   name: Check status
+  #   runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
