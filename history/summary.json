@@ -22,17 +22,17 @@
     "url": "https://agbero-be-gvgw.onrender.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/agbero-be-gvgw.onrender.com.ico",
     "slug": "agbero",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1635,
-    "timeDay": 2993,
-    "timeWeek": 3784,
-    "timeMonth": 2402,
-    "timeYear": 1635,
+    "time": 1625,
+    "timeDay": 2447,
+    "timeWeek": 3658,
+    "timeMonth": 2378,
+    "timeYear": 1625,
     "dailyMinutesDown": {}
   }
 ]
